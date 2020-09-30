@@ -11,43 +11,46 @@ The production process of flat sheet steel is especially delicate. From heating 
 
 ![photo2](https://user-images.githubusercontent.com/39815040/94637808-1441d080-02f6-11eb-863d-88922ddf3e32.png)
 
+
 ## Strategic plan to find defect and segment
 
 ![daa](https://user-images.githubusercontent.com/39815040/94637033-2f134580-02f4-11eb-95b7-76f2d583e162.png)
 
 
+
 ## My Model result.
 
-1. Classification model 1 (having defect on steel or not?)
+#### 1. Classification model 1 (having defect on steel or not?)
 
 ![Annotation 2020-08-25 213332](https://user-images.githubusercontent.com/39815040/94635888-561c4800-02f1-11eb-91c7-cdb355c5f340.png)
 
 
-2. Classification model 2 (Which type of defect?)
+#### 2. Classification model 2 (Which type of defect?)
 
 ![po](https://user-images.githubusercontent.com/39815040/94636214-2457b100-02f2-11eb-8f4e-e1f7c436c488.png)
 
 
-3. Model 3 (where is type 1 defect on steel?)
+#### 3. Segmentation model 1 (where is type 1 defect on steel?)
 #(Raw image, Actual mask, pridict mask)
 
 ![Annotation 2020-08-25 225651](https://user-images.githubusercontent.com/39815040/94636381-83b5c100-02f2-11eb-86c5-d20aaef2508d.png)
 
 
-4. Model 4 (where is type 2 defect on steel?)
+#### 4. Segmentation model 2 (where is type 2 defect on steel?)
 
 ![Annotation 2020-08-25 225514](https://user-images.githubusercontent.com/39815040/94636486-b790e680-02f2-11eb-9bd3-15dda36a97ea.png)
 
 
-5. Model 5 (where is type 3 defect on steel?)
+#### 5. Segmentation model 3 (where is type 3 defect on steel?)
 
 ![Annotation 2020-08-25 225809](https://user-images.githubusercontent.com/39815040/94636554-e60ec180-02f2-11eb-8ac8-24919a24b726.png)
 
 
-6. Model 6 (where is type 4 defect on steel?)
+#### 6. Segmentation model 4 (where is type 4 defect on steel?)
 
 ![Annotation 2020-08-25 225849](https://user-images.githubusercontent.com/39815040/94636563-ead37580-02f2-11eb-8035-9a8156227be6.png)
 
-7. Give raw image and i will tell all the things. 
+## Give raw image and i will tell all the things. 
 Result look likes this
+
 ![Annotation 2020-08-27 085355](https://user-images.githubusercontent.com/39815040/94636795-9bda1000-02f3-11eb-8cd1-e3ee6fd9644b.png)
