@@ -31,7 +31,7 @@ The production process of flat sheet steel is especially delicate. From heating 
 
 
 #### 3. Segmentation model 1 (where is type 1 defect on steel?)
-#(Raw image, Actual mask, pridict mask)
+#(          Raw image,                    Actual mask,                        predict mask          ) 
 
 ![Annotation 2020-08-25 225651](https://user-images.githubusercontent.com/39815040/94636381-83b5c100-02f2-11eb-86c5-d20aaef2508d.png)
 
