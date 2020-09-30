@@ -3,15 +3,16 @@
 
 Steel is one of the most important building materials of modern times. Steel buildings are resistant to natural and man-made wear which has made the material ubiquitous around the world. To help make a production of steel more efficient, this competition will help identify defects.
 
-![Screenshot 2020-09-30 073807](https://user-images.githubusercontent.com/39815040/94635315-fffad500-02ef-11eb-80e2-1532e20f73d9.png)
+![photo1](https://user-images.githubusercontent.com/39815040/94637757-f8d6c580-02f5-11eb-911c-0fa4920eb294.png)
 
 Severstal is leading the charge of inefficient steel mining and production. They believe the future of metallurgy requires development across the economic, ecological, and social aspects of the industry - and they take corporate responsibility seriously. The company recently created the country's largest industrial data lake, with petabytes of data that were previously discarded. Severstal is now looking to machine learning to improve automation, increase efficiency, and maintain high quality in their production.
 
-![Screenshot 2020-09-30 073827](https://user-images.githubusercontent.com/39815040/94635317-025d2f00-02f0-11eb-8870-10c03115d206.png)
-
 The production process of flat sheet steel is especially delicate. From heating and rolling, to drying and cutting, several machines touch flat steel by the time it's ready to ship.Today, Severstal uses images from high-frequency cameras to power a defect detection algorithm.
 
+![photo2](https://user-images.githubusercontent.com/39815040/94637808-1441d080-02f6-11eb-863d-88922ddf3e32.png)
+
 Strategic plan to find defect and segment
+
 ![daa](https://user-images.githubusercontent.com/39815040/94637033-2f134580-02f4-11eb-95b7-76f2d583e162.png)
 
 
