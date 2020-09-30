@@ -11,12 +11,12 @@ The production process of flat sheet steel is especially delicate. From heating 
 
 ![photo2](https://user-images.githubusercontent.com/39815040/94637808-1441d080-02f6-11eb-863d-88922ddf3e32.png)
 
-Strategic plan to find defect and segment
+## Strategic plan to find defect and segment
 
 ![daa](https://user-images.githubusercontent.com/39815040/94637033-2f134580-02f4-11eb-95b7-76f2d583e162.png)
 
 
-My Model result.
+## My Model result.
 
 1. Classification model 1 (having defect on steel or not?)
 
